@@ -1,2 +1,2 @@
-# Almacen-de-C-
+# LP2
 Repositorio de proyectos en c++
